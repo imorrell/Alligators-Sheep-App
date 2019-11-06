@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\bin\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.exe
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\bin\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.deps.json
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\bin\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\bin\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\bin\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.dll
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\bin\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.pdb
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\obj\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\obj\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\obj\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\obj\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.dll
+C:\Users\Prophesy\Documents\C#2019\Lab14AlligatorsAndSheeps\Lab14AlligatorsAndSheeps\obj\Debug\netcoreapp3.0\Lab14AlligatorsAndSheeps.pdb
